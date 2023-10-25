@@ -1,0 +1,23 @@
+{
+  "name": "igniting-our-app",
+  "version": "1.0.0",
+  "description": "This is a chapter 02. Igniting our app.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-rsiva/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Siva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-rsiva/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/dev-rsiva/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.1"
+  }
+}
