@@ -1,0 +1,29 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "we are making food delivery app",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "build parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-rsiva/Namaste-React.git"
+  },
+  "author": "Siv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-rsiva/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/dev-rsiva/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
